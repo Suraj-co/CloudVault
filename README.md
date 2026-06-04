@@ -68,7 +68,3 @@ CloudVault is a modern cloud-based personal storage platform that allows users t
 - Git & GitHub
 - Postman
 - Swagger/OpenAPI
-
----
-
-## 📁 Project Structure
