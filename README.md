@@ -56,7 +56,7 @@ CloudVault is a modern cloud-based personal storage platform that allows users t
 - React.js
 - HTML5
 - CSS3
-- JavaScript
+- Typescript
 - Bootstrap / Tailwind CSS
 
 ### AI Integration
